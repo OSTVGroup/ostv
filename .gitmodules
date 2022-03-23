@@ -1,0 +1,12 @@
+[submodule "ostvwebbase"]
+	path = ostvwebbase
+	url = https://github.com/OSTVGroup/ostvwebbase
+[submodule "ostvbase"]
+	path = ostvbase
+	url = https://github.com/OSTVGroup/ostvbase
+[submodule "ostvlauncher"]
+	path = ostvlauncher
+	url = https://github.com/OSTVGroup/ostvlauncher
+[submodule "ostvvidsubbase"]
+	path = ostvvidsubbase
+	url = https://github.com/OSTVGroup/ostvvidsubbase
